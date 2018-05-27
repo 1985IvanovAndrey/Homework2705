@@ -1,0 +1,10 @@
+INSERT INTO table1task2(id_klient,FIO) VALUES ('1', 'Bila Robin');
+INSERT INTO table1task2(id_klient,FIO) VALUES ('2', 'Bili Robins');
+INSERT INTO table1task2(id_klient,FIO) VALUES ('3', 'Bilik Robinson');
+INSERT INTO table1task2(id_klient,FIO) VALUES ('4', 'Bilu Robinson');
+INSERT INTO table1task2(id_klient,FIO) VALUES ('5', 'Bilsa Robinson');
+INSERT INTO table1task2(id_klient,FIO) VALUES ('6', 'Bilma Robinson');
+INSERT INTO table1task2(id_klient,FIO) VALUES ('7', 'Bilka Robinson');
+INSERT INTO table1task2(id_klient,FIO) VALUES ('8', 'Bilol Robinson');
+INSERT INTO table1task2(id_klient,FIO) VALUES ('9', 'Bilos Robinson');
+INSERT INTO table1task2(id_klient,FIO) VALUES ('10', 'Bilp Robinson');

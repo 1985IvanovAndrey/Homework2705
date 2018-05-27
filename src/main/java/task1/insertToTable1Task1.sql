@@ -1,0 +1,10 @@
+INSERT INTO table1task1(FIO, adres, phone, age) VALUES ('Bil Robinson', 'kosiora 15', '+380501254789', '8');
+INSERT INTO table1task1(FIO, adres, phone, age) VALUES ('John Carlos', 'kosiora 20', '+380501254779', '10');
+INSERT INTO table1task1(FIO, adres, phone, age) VALUES ('Vin Owen', 'kosiora 25', '+380501654789', '15');
+INSERT INTO table1task1(FIO, adres, phone, age) VALUES ('Bob Messi', 'kosiora 30', '+380501254749', '9');
+INSERT INTO table1task1(FIO, adres, phone, age) VALUES ('Bil Ronaldo', 'kosiora 45', '+380501224889', '44');
+INSERT INTO table1task1(FIO, adres, phone, age) VALUES ('Kiwi Wardy', 'kosiora 20', '+380501255559', '55');
+INSERT INTO table1task1(FIO, adres, phone, age) VALUES ('Steave Newman', 'kosiora 17', '+380501123789', '66');
+INSERT INTO table1task1(FIO, adres, phone, age) VALUES ('Coul Conte', 'kosiora 19', '+380501254999', '77');
+INSERT INTO table1task1(FIO, adres, phone, age) VALUES ('Mike Velom', 'kosiora 18', '+380501254888', '43');
+INSERT INTO table1task1(FIO, adres, phone, age) VALUES ('Varan Contex', 'kosiora 55', '+380501254777', '66');

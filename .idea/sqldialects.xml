@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/main/java/task1/countAge.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/task1/createTabl1Task1.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/task1/insertToTable1Task1.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/task1/uniqueAdresFromTable1Task1.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/task2/createTabl1Task2.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/task2/createTable2Task2.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/task2/insertToTable1Task2.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/task2/insertToTable2Task2.sql" dialect="PostgreSQL" />
+  </component>
+</project>
