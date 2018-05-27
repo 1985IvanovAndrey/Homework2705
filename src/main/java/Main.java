@@ -14,14 +14,16 @@ public class Main {
 
     public static void main(String[] args) throws SQLException {
 
-        //ConnectionToBD connectionToBD = new ConnectionToBD();
-        //connectionToBD.myCreateConnection();
-        //task1.fillingTabl1Task1FromScript();
-        //task1.uniqueAdresFromTable1Task1();
-        //task1.countAge();
-        // task2.insertScriptsToTable1Task2();
-        // task2.fillingTable1Task2FromScript();
-        task2.insertScriptsToTable2Task2();
-        task2.insertScriptsToTable1Task2();
+        // task1.insertScriptsToTable1Task1();//сохранения скрипта в sql файл и запись в БД,table1task1
+        //task1.uniqueAdresFromTable1Task1();//вывод уникальных адресов
+        //task1.countAge();//Вывод количества людей каждого возраста:
+
+        //task2.insertScriptsToTable1Task2();//сохранения скрипта в sql файл и запись в БД,table1task2
+        //task2.insertScriptsToTable2Task2();//сохранения скрипта в sql файл и запись в БД,table2task2
+        task2.summaSalaryFromIdTable1();//сумма дохода по id из первой таблицы
+        task2.printMaxDate();//вывод мах даты дохода по id из первой таблицы
+        task2.printIdNotTable1Task2();//Показать клиентов которых нет в первой таблице,  но по ним есть доходы
+        task2.printIdNotTable2Task2();//Показать клиентов которые есть в первой таблице а во второй их нет.
+
     }
 }

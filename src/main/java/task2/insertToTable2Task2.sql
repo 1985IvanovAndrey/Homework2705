@@ -1,10 +1,10 @@
 INSERT INTO table2task2(id_klient,data,summa_salary) VALUES ('1', '2017.05.03', '700');
 INSERT INTO table2task2(id_klient,data,summa_salary) VALUES ('15', '2019.05.03', '900');
-INSERT INTO table2task2(id_klient,data,summa_salary) VALUES ('17', '2012.05.03', '1500');
+INSERT INTO table2task2(id_klient,data,summa_salary) VALUES ('7', '2012.05.03', '1500');
 INSERT INTO table2task2(id_klient,data,summa_salary) VALUES ('7', '2011.05.03', '2500');
 INSERT INTO table2task2(id_klient,data,summa_salary) VALUES ('9', '2013.05.03', '3500');
-INSERT INTO table2task2(id_klient,data,summa_salary) VALUES ('8', '2016.05.03', '4500');
+INSERT INTO table2task2(id_klient,data,summa_salary) VALUES ('1', '2016.05.03', '4500');
 INSERT INTO table2task2(id_klient,data,summa_salary) VALUES ('6', '2001.05.03', '5600');
 INSERT INTO table2task2(id_klient,data,summa_salary) VALUES ('5', '2008.05.03', '5700');
-INSERT INTO table2task2(id_klient,data,summa_salary) VALUES ('4', '2021.05.03', '5900');
-INSERT INTO table2task2(id_klient,data,summa_salary) VALUES ('2', '2023.05.03', '1500');
+INSERT INTO table2task2(id_klient,data,summa_salary) VALUES ('9', '2021.05.03', '5900');
+INSERT INTO table2task2(id_klient,data,summa_salary) VALUES ('3', '2023.05.03', '1500');

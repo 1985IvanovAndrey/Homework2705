@@ -12,7 +12,7 @@ public class Task1 {
     private final String INSERT_SCRIPT = "INSERT INTO table1task1(FIO, adres, phone, age) VALUES (";
     ConnectionToBD connectionToBD = new ConnectionToBD();
 
-    public void insertScriptsToTable1Task1() {
+    public void insertScriptsToTable1Task1() throws SQLException {
         System.out.println("Добавление записей в скрипт insertScriptsToTable1Task1");
         persons.add(new Person("Bil", "Robinson", "kosiora 15", "+380501254789", 8));
         persons.add(new Person("John", "Carlos", "kosiora 20", "+380501254779", 10));
@@ -24,7 +24,7 @@ public class Task1 {
         persons.add(new Person("Coul", "Conte", "kosiora 19", "+380501254999", 77));
         persons.add(new Person("Mike", "Velom", "kosiora 18", "+380501254888", 43));
         persons.add(new Person("Varan", "Contex", "kosiora 55", "+380501254777", 66));
-        try (BufferedWriter bw = new BufferedWriter(new FileWriter(INSERT_SCRIPT_FILE, true))) {
+        try (BufferedWriter bw = new BufferedWriter(new FileWriter(INSERT_SCRIPT_FILE, false))) {
             for (Person person : persons) {
                 bw.write(INSERT_SCRIPT + "'" + person.getName() + " " + person.getSerName() + "', '" + person.getAdres() + "', '" + person.getPhone() + "', '" + person.getAge() + "');");
                 bw.newLine();
@@ -33,6 +33,7 @@ public class Task1 {
             e.printStackTrace();
         }
         System.out.println("----------------------------------------------------------");
+        fillingTable1Task1FromScript();
     }
 
     public void fillingTable1Task1FromScript() throws SQLException {
@@ -77,7 +78,7 @@ public class Task1 {
         String script="Select age, count(*) from table1task1 group by age";
         PreparedStatement pr = connectionToBD.getConnection().prepareStatement(script);
         ResultSet rs2 = pr.executeQuery();
-        System.out.println("Вывод количества людей кадого возраста:");
+        System.out.println("Вывод количества людей каждого возраста:");
         while (rs2.next()) {
             System.out.println(rs2.getString(1) + "=" + rs2.getString(2));
         }
