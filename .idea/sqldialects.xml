@@ -13,8 +13,24 @@
     <file url="file://$PROJECT_DIR$/src/main/java/task2/printIdNotTable1Task2.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/src/main/java/task2/printIdNotTable2Task2.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/src/main/java/task2/summaSalaryFromIdTable1.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/task3/between100and250.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/task3/countDatesMoreThan1.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/task3/countOfUniqueDates.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/src/main/java/task3/createTable1Task3.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/src/main/java/task3/insertToTable1Task3.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/src/main/java/task3/salaryInTheCurrencyOfTheBbank.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/task4/createTable1task4.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/task4/createTable2task4.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/task4/createTable3task4.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/task4/createTable4task4.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/task4/dataAndCount.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/task4/dataAndCountClients.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/task4/insertToTable1Task4.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/task4/insertToTable2Task4.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/task4/insertToTable3Task4.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/task4/insertToTable4Task4.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/task4/serviceMaxdateCountZvonkov.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/task4/serviceOperatorClientMaxdate.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/task4/serviceOperatorMaxDate.sql" dialect="PostgreSQL" />
   </component>
 </project>

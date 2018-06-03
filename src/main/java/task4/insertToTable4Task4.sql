@@ -1,0 +1,12 @@
+INSERT INTO table4task4(id_service, id_operator, date, id_client) VALUES ('1','1','2013.04.01','1');
+INSERT INTO table4task4(id_service, id_operator, date, id_client) VALUES ('1','2','2013.04.07','1');
+INSERT INTO table4task4(id_service, id_operator, date, id_client) VALUES ('2','1','2013.04.02','2');
+INSERT INTO table4task4(id_service, id_operator, date, id_client) VALUES ('2','1','2013.04.01','3');
+INSERT INTO table4task4(id_service, id_operator, date, id_client) VALUES ('2','2','2013.04.02','4');
+INSERT INTO table4task4(id_service, id_operator, date, id_client) VALUES ('3','1','2013.04.07','4');
+INSERT INTO table4task4(id_service, id_operator, date, id_client) VALUES ('3','5','2013.04.02','6');
+INSERT INTO table4task4(id_service, id_operator, date, id_client) VALUES ('3','6','2013.04.03','5');
+INSERT INTO table4task4(id_service, id_operator, date, id_client) VALUES ('3','4','2013.04.03','3');
+INSERT INTO table4task4(id_service, id_operator, date, id_client) VALUES ('4','4','2013.04.03','3');
+INSERT INTO table4task4(id_service, id_operator, date, id_client) VALUES ('5','4','2013.04.03','1');
+INSERT INTO table4task4(id_service, id_operator, date, id_client) VALUES ('5','6','2013.04.04','4');
